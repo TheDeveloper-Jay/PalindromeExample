@@ -9,6 +9,6 @@ Example1:
 "abcd efgh" and 
 "dase dcba" return 4, since we can split the strings like "abcd" and "dcba"
 
-Example2:
+Example2:<br/>
 wooo p<br/>
 piuy w<br/>
